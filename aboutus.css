@@ -6,11 +6,6 @@ body {
   padding: 0;
 }
 
-#ketloverz-container {
-  border: 2px solid #dadce0;
-  border-radius: 10px;
-}
-
 .carousel {
   margin: auto;
   height: 500px; 
