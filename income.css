@@ -1,0 +1,17 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #efefef;
+    color: #333;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+
+#logo {
+    width: 90px;
+}
+
+#submitBtn {
+    width: 90px;
+}
+

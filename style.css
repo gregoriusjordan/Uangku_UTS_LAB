@@ -1,0 +1,25 @@
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #efefef;
+    color: #333;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+#logo {
+    width: 90px;
+}
+
+
+.navcont {
+    height: 80px;
+}
+
+#balance {
+    font-weight: bold;
+    font-size: 78px;
+}
+ #resetButton {
+    width: 90px;
+ }

@@ -1,0 +1,47 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #efefef;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+
+  .bungkus {
+    margin-bottom: 50px;
+  }
+
+  #income-container {
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 2px solid #dadce0;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+
+  #logo {
+    width: 90px;
+  }
+
+  #submitBtn {
+    width: 150px;
+  }
+
+  .btn-primary {
+    background-color: limegreen;
+    border-color: limegreen;
+    margin-top: 10px;
+  }
+
+  .btn-primary:hover {
+    background-color: darkgreen;
+    border-color: darkgreen;
+  }
+
+  @media (min-width: 768px) {
+    #income-container {
+      padding: 40px;
+    }
+  }
